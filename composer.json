@@ -1,5 +1,5 @@
 {
-    "name": "demency/nova-gridder",
+    "name": "yaangvu/nova-gridder",
     "description": "A Laravel Nova Package for resource details grids.",
     "keywords": [
         "laravel",
@@ -9,8 +9,8 @@
     ],
     "authors": [
         {
-            "name": "Ian Torres",
-            "email": "iantorres@outlook.com"
+            "name": "Yaang Vu",
+            "email": "yaangvu@gmail.com"
         }
     ],
     "license": "MIT",
@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Demency\\NovaGridder\\": "src/"
+            "YaangVu\\NovaGridder\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Demency\\NovaGridder\\NovaGridderServiceProvider"
+                "YaangVu\\NovaGridder\\NovaGridderServiceProvider"
             ]
         }
     },
