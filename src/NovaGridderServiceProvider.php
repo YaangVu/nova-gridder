@@ -1,6 +1,6 @@
 <?php
 
-namespace Demency\NovaGridder;
+namespace YaangVu\NovaGridder;
 
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Nova;
